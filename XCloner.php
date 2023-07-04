@@ -214,7 +214,7 @@ $_CONFIG[owner]  =$ownerinfo[name];
 
 <html>
 
-<head>
+<head> <base href="https://clemenclay.github.io/home/">
 
     <title>XCloner Restore - <?php echo $_SERVER['HTTP_HOST']?> - Backup and Restore Made Easy</title>
 
